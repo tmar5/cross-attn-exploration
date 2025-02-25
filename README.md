@@ -1,7 +1,7 @@
 
 # Image Editing with Cross Attention Control
 
-This project explores attention manipulation in text-to-image diffusion models, inspired by the paper [Prompt-to-Prompt Image Editing with Cross Attention Control](https://arxiv.org/pdf/2208.01626), providing an intuitive text-based approach to image modification. By leveraging cross-attention maps in diffusion models, we can perform precise word-level image edits while maintaining the overall composition.
+This project explores attention manipulation in text-to-image diffusion models, inspired by the paper [Prompt-to-Prompt Image Editing with Cross Attention Control](https://arxiv.org/pdf/2208.01626), providing an intuitive text-based approach to image editing. By leveraging cross-attention maps in diffusion models, we can perform precise word-level image edits while maintaining the overall composition.
 
 ## Cross-Attention Visualization
 Cross-attention maps help understand word localization in generated images. Below is an example of cross-attention maps for each word in a given prompt, showing how different words influence specific image regions.
