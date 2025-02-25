@@ -53,6 +53,11 @@ A better prompt can be introduced to refine results by fixing the color:
 - **New Prompt:** "a brown **fluffy** teddy bear"  
   ![Download](https://github.com/user-attachments/assets/882555b4-03e3-495d-bd9c-51c1689bed24)
 
+-  With a different seed:
+  
+  ![download](https://github.com/user-attachments/assets/5edc23d0-d577-433f-aaa2-601dab2a36f0)
+
+
 ## Conclusion
 This method provides a seamless way to edit images using only text, maintaining structural integrity while allowing for localized or global modifications. The approach enables:
 - Word-specific content modifications.
